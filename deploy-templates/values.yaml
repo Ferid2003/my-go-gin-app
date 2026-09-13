@@ -46,7 +46,7 @@ service:
   type: ClusterIP
   port: 8080
 ingress:
-  enabled: false
+  enabled: true
   dnsWildcard: example.com
   className: ""
   annotations: {}
