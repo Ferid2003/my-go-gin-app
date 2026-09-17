@@ -1,5 +1,5 @@
 package hello
 
 func GetMessage() string {
-	return "Hello, World!"
+	return "Hello, World! SUI!"
 }
